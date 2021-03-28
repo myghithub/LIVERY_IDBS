@@ -3,15 +3,15 @@
    "kang_zayvius": [
     {
       "id": "1",
-      "tittle": "18",
+      "tittle": "Single Fighter",
       "date": "2021-03-27",
       "link_file": "https://archive.org/download/19_20210324_202103/20.zip",
       "format_file":"zip",
       "images": "https://archive.org/download/19_20210322_20210322_1720/20.png"
     },
-    {
+     {
         "id": "2",
-        "tittle": "17",
+        "tittle": "Cornhunter",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/19.zip",
         "format_file":"zip",
@@ -19,7 +19,7 @@
       },
        {
         "id": "4",
-        "tittle": "16",
+        "tittle": "Anti Gosip GKK",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/17.zip",
         "format_file":"zip",
@@ -27,7 +27,7 @@
       },
        {
          "id": "5",
-         "tittle": "15",
+         "tittle": "Anti GOSIP bst",
          "date": "2021-03-27",
          "link_file": "https://archive.org/download/19_20210324_202103/16.zip",
          "format_file":"zip",
@@ -35,7 +35,7 @@
        },
        {
           "id": "6",
-          "tittle": "14",
+          "tittle": "Fantastic",
           "date": "2021-03-27",
           "link_file": "https://archive.org/download/19_20210324_202103/15.zip",
           "format_file":"zip",
@@ -43,7 +43,7 @@
         },
        {
          "id": "7",
-         "tittle": "13",
+         "tittle": "Wahyu Abadi Polos",
          "date": "2021-03-27",
          "link_file": "https://archive.org/download/14_20210324/14.zip",
          "format_file":"zip",
@@ -51,23 +51,15 @@
        },
        {
         "id": "8",
-        "tittle": "12",
+        "tittle": "Wahyu Abadi 2",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/13.zip",
         "format_file":"zip",
         "images": "https://archive.org/download/19_20210322_20210322_1720/13.jpg"
       },
       {
-        "id": "9",
-        "tittle": "11",
-        "date": "21-03-27",
-        "link_file": "https://archive.org/download/19_20210324_202103/12.zip",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/12.jpg"
-      },
-      {
         "id": "10",
-        "tittle": "10",
+        "tittle": "HM Cabe",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/11.zip",
         "format_file":"zip",
@@ -75,7 +67,7 @@
       },
       {
         "id": "12",
-        "tittle": "9",
+        "tittle": "Manis",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/10.zip",
         "format_file":"zip",
@@ -83,15 +75,23 @@
       },
       {
         "id": "12",
-        "tittle": "8",
+        "tittle": "Boss Muda Tawakal",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/9.zip",
         "format_file":"zip",
         "images": "https://archive.org/download/19_20210322_20210322_1720/9.jpg"
       },
+      {
+         "id": "13",
+         "tittle": "Indra Jaya",
+         "date": "2021-03-27",
+         "link_file": "https://archive.org/download/19_20210324_202103/8.zip",
+         "format_file":"zip",
+         "images": "https://archive.org/download/19_20210322_20210322_1720/8.jpg"
+       },
        {
          "id": "14",
-         "tittle": "7",
+         "tittle": "Proklamator",
          "date": "2021-03-27",
          "link_file": "https://archive.org/download/19_20210324_202103/7.zip",
          "format_file":"zip",
@@ -99,7 +99,7 @@
        },
        {
          "id": "15",
-         "tittle": "6",
+         "tittle": "GatotGaca",
          "date": "2021-03-27",
          "link_file": "https://archive.org/download/19_20210324_202103/6.zip",
          "format_file":"zip",
@@ -107,7 +107,7 @@
        },
        {
         "id": "16",
-        "tittle": "5",
+        "tittle": "Wahyu Abadi 1",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/5.zip",
         "format_file":"zip",
@@ -115,7 +115,7 @@
       },
        {
         "id": "17",
-        "tittle": "4",
+        "tittle": "New Tawakal",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210322_20210322_1720/4.jpg",
         "format_file":"zip",
@@ -123,7 +123,7 @@
       },
        {
          "id": "18",
-         "tittle": "3",
+         "tittle": "Polos Kuning",
          "date": "2021-03-27",
          "link_file": "https://archive.org/download/19_20210324_202103/3.zip",
          "format_file":"zip",
@@ -131,7 +131,7 @@
        },
        {
           "id": "19",
-          "tittle": "2",
+          "tittle": "Sekar Taro",
           "date": "2021-03-27",
           "link_file": "https://archive.org/download/19_20210324_202103/2.zip",
           "format_file":"zip",
@@ -139,7 +139,7 @@
         },
        {
          "id": "20",
-         "tittle": "1",
+         "tittle": "Low And Slow",
          "date": "2021-03-27",
          "link_file": "https://archive.org/download/19_20210324_202103/1.zip",
          "format_file":"zip",
