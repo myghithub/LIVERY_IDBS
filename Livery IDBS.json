@@ -3,7 +3,7 @@
    "kang_zayvius": [
     {
       "id": "1",
-      "tittle": "20",
+      "tittle": "18",
       "date": "2021-03-27",
       "link_file": "https://archive.org/download/19_20210324_202103/20.zip",
       "format_file":"zip",
@@ -11,23 +11,15 @@
     },
     {
         "id": "2",
-        "tittle": "19",
+        "tittle": "17",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/19.zip",
         "format_file":"zip",
         "images": "https://archive.org/download/19_20210322_20210322_1720/19.png"
       },
        {
-         "id": "3",
-         "tittle": "18",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/19_20210324_202103/18.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/18.jpg"
-       },
-       {
         "id": "4",
-        "tittle": "17",
+        "tittle": "16",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/17.zip",
         "format_file":"zip",
@@ -35,7 +27,7 @@
       },
        {
          "id": "5",
-         "tittle": "16",
+         "tittle": "15",
          "date": "2021-03-27",
          "link_file": "https://archive.org/download/19_20210324_202103/16.zip",
          "format_file":"zip",
@@ -43,7 +35,7 @@
        },
        {
           "id": "6",
-          "tittle": "15",
+          "tittle": "14",
           "date": "2021-03-27",
           "link_file": "https://archive.org/download/19_20210324_202103/15.zip",
           "format_file":"zip",
@@ -51,7 +43,7 @@
         },
        {
          "id": "7",
-         "tittle": "14",
+         "tittle": "13",
          "date": "2021-03-27",
          "link_file": "https://archive.org/download/14_20210324/14.zip",
          "format_file":"zip",
@@ -59,7 +51,7 @@
        },
        {
         "id": "8",
-        "tittle": "13",
+        "tittle": "12",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/13.zip",
         "format_file":"zip",
@@ -67,7 +59,7 @@
       },
       {
         "id": "9",
-        "tittle": "12",
+        "tittle": "11",
         "date": "21-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/12.zip",
         "format_file":"zip",
@@ -75,7 +67,7 @@
       },
       {
         "id": "10",
-        "tittle": "11",
+        "tittle": "10",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/11.zip",
         "format_file":"zip",
@@ -83,7 +75,7 @@
       },
       {
         "id": "12",
-        "tittle": "10",
+        "tittle": "9",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/10.zip",
         "format_file":"zip",
@@ -91,20 +83,12 @@
       },
       {
         "id": "12",
-        "tittle": "9",
+        "tittle": "8",
         "date": "2021-03-27",
         "link_file": "https://archive.org/download/19_20210324_202103/9.zip",
         "format_file":"zip",
         "images": "https://archive.org/download/19_20210322_20210322_1720/9.jpg"
       },
-      {
-         "id": "13",
-         "tittle": "8",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/19_20210324_202103/8.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/8.jpg"
-       },
        {
          "id": "14",
          "tittle": "7",
